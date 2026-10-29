@@ -262,5 +262,13 @@
         "icon": "School",
         "category": "Educação",
         "department": "Educa"
+    },
+    {
+        "name": "Portal Administrativo",
+        "description": "Portal Administrativo",
+        "url": "https://adm.cdc.org.br/",
+        "icon": "LayoutDashboard",
+        "category": "Sistemas",
+        "department": "Administrativo"
     }
 ]
